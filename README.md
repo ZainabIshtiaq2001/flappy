@@ -1,6 +1,9 @@
 # flappy
 A Flappy Bird Customer Greeter Robot Implementation in submission for the project of EE 523 Embedded Systems.
 
+#Demo video
+https://youtu.be/ihieqa6ipmM
+
 ## How to use?
 
 ```bash
